@@ -1,6 +1,6 @@
 {
   "name": "dirty-confirm",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "author": "Mike Bannister <notimpossiblemike@gmail.com>",
   "license": "MIT",
   "description": "A confirmation tool for potentially risky operations",
