@@ -1,0 +1,23 @@
+{
+  "name": "dirty-confirm",
+  "version": "0.1.5",
+  "author": "Mike Bannister <notimpossiblemike@gmail.com>",
+  "license": "MIT",
+  "description": "A confirmation tool for potentially risky operations",
+  "bin": {
+    "dirty-confirm": "./dirty-confirm.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/dirty-confirm.git"
+  },
+  "scripts": {
+    "release": "./release.sh",
+    "release:patch": "./release.sh patch",
+    "release:minor": "./release.sh minor",
+    "release:major": "./release.sh major"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
