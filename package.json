@@ -3,7 +3,7 @@
   "version": "0.1.6",
   "author": "Mike Bannister <notimpossiblemike@gmail.com>",
   "license": "MIT",
-  "description": "A confirmation tool for potentially risky operations",
+  "description": "Dirty Confirm CLI",
   "bin": {
     "dirty-confirm": "./dirty-confirm.sh"
   },
